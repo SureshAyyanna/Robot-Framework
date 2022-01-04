@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Robot-Framework/.idea/Robot-Framework.iml" filepath="$PROJECT_DIR$/../Robot-Framework/.idea/Robot-Framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/RobotFrameworkLearning.iml" filepath="$PROJECT_DIR$/.idea/RobotFrameworkLearning.iml" />
     </modules>
   </component>
